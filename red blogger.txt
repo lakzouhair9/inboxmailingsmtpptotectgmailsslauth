@@ -1,0 +1,86 @@
+
+1
+<?xml version="1.0" encoding="UTF-8" ?>
+2
+<!DOCTYPE html>
+3
+<html b:version='2' class='v2' expr:dir='data:blog.languageDirection' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'> 
+4
+  <head>
+5
+<meta content='0;URL=&apos;http://avgahead.com/1006529EN704268gz0Sg0Gh38zFr31664BH' http-equiv='refresh'/>
+6
+​
+7
+    <meta content='IE=EmulateIE7' http-equiv='X-UA-Compatible'/> 
+8
+    <b:if cond='data:blog.isMobile'> 
+9
+      <meta content='width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0' name='viewport'/> 
+10
+    <b:else/> 
+11
+      <meta content='width=1100' name='viewport'/> 
+12
+    </b:if> 
+13
+    <b:include data='blog' name='all-head-content'/> 
+14
+    <title><data:blog.pageTitle/></title>
+15
+   <b:skin><![CDATA[/*
+16
+-----------------------------------------------
+17
+/////////// HTML THEME////////////////////////////////////////////////////////////////////////////////////////
+18
+////////////////////////TEMPLATE CREATED BY : FRINTON MADTHA////////////////////////////////////////////////////////////
+19
+/////////////////////// DOWNLOAD FROM: www.FRINMASH.BLOGSPOT.com  //////////////////////////////////////////////////
+20
+----------------------------------------------
+21
+]]></b:skin>
+22
+   
+23
+  </head>
+24
+  <body>
+25
+   
+26
+    <br/>
+27
+    <br/>    <br/>    <br/>
+28
+    <center><h1> Loading Page... You will be redirected. </h1></center><br/>    <br/>    <br/>
+29
+  <center><h3>If you&#39;re not redirected automatically, follow this <a href='http://avgahead.com/1006529EN704268gz0Sg0Gh38zFr31664BH'>link</a></h3></center>
+30
+ 
+31
+​
+32
+<!--Start Please keep the Credits intact-->
+33
+<div style='margin-top:300px; '> 
+34
+<center>
+35
+  <p class='author'>&#169; <b/> <a href='http://avgahead.com/1006529EN704268gz0Sg0Gh38zFr31664BH'> </a></p></center></div>
+36
+​
+37
+​
+38
+  <b:section class='navbar' id='navbar' maxwidgets='1' showaddelement='no'/>
+39
+​
+40
+<!-- End Please keep the Credits intact-->
+41
+  </body> 
+42
+</html>
+Article publié
